@@ -1,0 +1,22 @@
+<resources>
+    <!--    메인 페이지-->
+    <string name="app_name">MyDecision</string>
+    <string name="goal_title">나의 기준 정하기</string>
+    <string name="goal_sub_title">나만의 기준으로 결정하세요</string>
+    <string name="goal_name">출근시간</string>
+    <string name="goal_unit">30분</string>
+    <string name="goal_new">새로운 기준 만들기</string>
+    <string name="goal_delete">지우기</string>
+    <string name="goal_save">저장</string>
+
+    <!--    콘텐츠 페이지-->
+    <string name="contents_title">나와 맞는 회사 찾기</string>
+    <string name="contents_sub_title">나의 기준 정하기</string>
+    <string name="contents_name">내일배움캠프 AOS</string>
+    <string name="contents_unit">30분</string>
+    <string name="contents_new">새로운 기준 만들기</string>
+    <string name="contents_delete">지우기</string>
+    <string name="contents_save">저장</string>
+
+
+</resources>
